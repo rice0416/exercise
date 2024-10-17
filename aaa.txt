@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 onigiri
 bbb
 BBB
+=======
+AAA
+>>>>>>> b7ebc24d005945677d1e6d46b4b702230441c6c8
